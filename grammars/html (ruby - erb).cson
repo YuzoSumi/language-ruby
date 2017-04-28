@@ -1,8 +1,8 @@
 'name': 'HTML (Ruby - ERB)'
 'scopeName': 'text.html.erb'
 'fileTypes': [
+  'erb'
   'rhtml'
-  'html.erb'
 ]
 'injections':
   'text.html.erb - (meta.embedded.block.erb | meta.embedded.line.erb | meta.tag | comment), meta.tag string.quoted':
